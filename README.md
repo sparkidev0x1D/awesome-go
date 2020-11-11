@@ -259,6 +259,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gookit/color](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
 * [mpb](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications.
 * [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS.
+* [pterm](https://github.com/pterm/pterm) - A library to beautify console output on every platform with many combinable components.
 * [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in terminal with Go.
 * [tabby](https://github.com/cheynewallace/tabby) - A tiny library for super simple Golang tables.
 * [table](https://github.com/tomlazar/table) - Small library for terminal color based tables .
@@ -747,6 +748,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [currency](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
 * [currency](https://github.com/bnkamalesh/currency) - High performant & accurate currency computation package.
 * [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers.
+* [fastme](https://github.com/newity/fastme) - Fast extensible matching engine Go implementation.
 * [go-finance](https://github.com/FlashBoys/go-finance) - Comprehensive financial markets data in Go.
 * [go-finance](https://github.com/alpeb/go-finance) - Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 * [go-finance](https://github.com/pieterclaerhout/go-finance) - Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers.
@@ -1210,7 +1212,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-todo-backend](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem.
 * [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
-* [scaffold](https://github.com/catchplay/scaffold) - Scaffold generates starter Go project layout. Lets you focus on business logic implemeted.
+* [scaffold](https://github.com/catchplay/scaffold) - Scaffold generates a starter Go project layout. Lets you focus on business logic implemented.
 
 ### Strings
 
@@ -1344,6 +1346,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-powerdns](https://github.com/joeig/go-powerdns) - PowerDNS API bindings for Golang.
 * [go-stun](https://github.com/ccding/go-stun) - Go implementation of the STUN client (RFC 3489 and RFC 5389).
 * [gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language.
+* [gohooks](https://github.com/averageflow/gohooks) - GoHooks make it easy to send and consume secured web-hooks from a Go application. Inspired by Spatie's Laravel Webhook Client and Server.
 * [golibwireshark](https://github.com/sunwxg/golibwireshark) - Package golibwireshark use libwireshark library to decode pcap file and analyse dissection data.
 * [gopacket](https://github.com/google/gopacket) - Go library for packet processing with libpcap bindings.
 * [gopcap](https://github.com/akrennmair/gopcap) - Go wrapper for libpcap.
@@ -1365,6 +1368,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [mqttPaho](https://eclipse.org/paho/clients/golang/) - The Paho Go Client provides an MQTT client library for connection to MQTT brokers via TCP, TLS or WebSockets.
 * [NFF-Go](https://github.com/intel-go/nff-go) - Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF).
 * [packet](https://github.com/aerogo/packet) - Send packets over TCP and UDP. It can buffer messages and hot-swap connections if needed.
+* [panoptes-stream](https://github.com/yahoo/panoptes-stream) - A cloud native distributed streaming network telemetry (gNMI, Juniper JTI and Cisco MDT).
 * [peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure Go library for cross-platform local peer discovery using UDP multicast.
 * [portproxy](https://github.com/aybabtme/portproxy) - Simple TCP proxy which adds CORS support to API's which don't support it.
 * [publicip](https://github.com/polera/publicip) - Package publicip returns your public facing IPv4 address (internet egress).
@@ -1469,6 +1473,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [jaeger](https://github.com/jaegertracing/jaeger) - A distributed tracing system.
 * [pixie](https://github.com/pixie-labs/pixie) - No instrumentation tracing for Golang applications via eBPF.
 * [profile](https://github.com/pkg/profile) - Simple profiling support package for Go.
+* [statsviz](https://github.com/arl/statsviz) - Live visualization of your Go application runtime statistics.
 * [tracer](https://github.com/kamilsk/tracer) - Simple, lightweight tracing.
 
 ## Query Language
@@ -1671,6 +1676,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [ginkgo](http://onsi.github.io/ginkgo/) - BDD Testing Framework for Go.
     * [go-carpet](https://github.com/msoap/go-carpet) - Tool for viewing test coverage in terminal.
     * [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests.
+    * [go-hit](https://github.com/Eun/go-hit) - Hit is an http integration test framework written in golang.
     * [go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
     * [go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package.
     * [go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests.
@@ -1901,6 +1907,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [clockwork](https://github.com/jonboulle/clockwork) - A simple fake clock for golang.
 * [cmd](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
 * [command](https://github.com/txgruppi/command) - Command pattern for Go with thread safe serial and parallel dispatcher.
+* [copy](https://github.com/gotidy/copy) - Package for fast copying structs of different types.
 * [copy-pasta](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
 * [countries](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standarts.
 * [create-go-app](https://github.com/create-go-app/cli) - A powerful CLI for create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) & deploy automation (Ansible, Docker) by running one command.
@@ -2555,6 +2562,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Golang Taipei](https://www.meetup.com/golang-taipei-meetup/)
 * [Golang Turkey](https://kommunity.com/goturkiye)
 * [Golang Vancouver, BC](https://www.meetup.com/golangvan/)
+* [Golang Vienna, Austria](https://www.meetup.com/viennago/)
 * [Golang Казань](https://www.meetup.com/GolangKazan/)
 * [Golang Москва](https://www.meetup.com/Golang-Moscow/)
 * [Golang Питер](https://www.meetup.com/Golang-Peter/)
