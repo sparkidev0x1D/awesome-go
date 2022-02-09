@@ -1,8 +1,5 @@
 This resource was made by the Go community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/avelino/awesome-go/graphs/contributors).
 
-Join us on IRC at **#awesome-go** on freenode [web access](http://webchat.freenode.net/?channels=awesome-go)
-
-
 # Contribution Guidelines
 
 > Please be aware that we want to accept your contribution, but we have **some rules to keep the minimum quality** of the packages listed here. All reviews are **not personal feedback**, even if you are a _developer reviewing your contribution_. **Sorry if we can't meet your expectations, we do our best**.
@@ -17,11 +14,12 @@ To set this list apart from and complement the excellent [Go wiki Projects page]
 - Descriptions should be clear, concise, and non-promotional;
 - Descriptions should follow the link, on the same line and end with a punctuation mark;
 - At least 3 items are needed to create a new category;
-- The package or project had to be maintained under **open source license** ( *we make a brief review of the code before the link enters the list* ), [see list of allowed licenses](https://opensource.org/licenses/alphabetical).
+- The package or project had to be maintained under **open source license** ( *we make a brief review of the code before the link enters the list* ), [see list of allowed licenses](https://opensource.org/licenses/alphabetical);
+- Remember to put a period `.` at end of the project description.
 
 Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 
-If you removed our PR template you can find it [here](https://github.com/avelino/awesome-go/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
+If you removed our PR template you can find it [here](https://github.com/avelino/awesome-go/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
 
 
 ## Quality standards
