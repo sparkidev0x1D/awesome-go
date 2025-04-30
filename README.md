@@ -417,6 +417,7 @@ _Libraries for building standard or basic Command Line applications._
 - [go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go.
 - [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser.
 - [go-getoptions](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
+- [go-readline-ny](https://github.com/nyaosorg/go-readline-ny) - A customizable line-editing library with Emacs keybindings, Unicode support, completion, and syntax highlighting. Used in NYAGOS shell.
 - [gocmd](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 - [hashicorp/cli](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
 - [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
@@ -785,6 +786,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 
 - [chproxy](https://github.com/Vertamedia/chproxy) - HTTP proxy for ClickHouse database.
 - [clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) - Collects small inserts and sends big requests to ClickHouse servers.
+- [database-gateway](https://github.com/kazhuravlev/database-gateway) - Running SQL in production with ACLs, logs, and shared links.
 - [dbbench](https://github.com/sj14/dbbench) - Database benchmarking tool with support for several databases and scripts.
 - [dg](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 - [gatewayd](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
@@ -1104,6 +1106,7 @@ _Libraries for handling errors._
 - [Falcon](https://github.com/SonicRoshan/falcon) - A Simple Yet Highly Powerful Package For Error Handling.
 - [Fault](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 - [go-multierror](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
+- [metaerr](https://github.com/quantumcycle/metaerr) - A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces.
 - [multierr](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
 - [oops](https://github.com/samber/oops) - Error handling with context, stack trace and source fragments.
 - [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
@@ -2811,6 +2814,7 @@ _General utilities and tools to make your life easier._
 - [grofer](https://github.com/pesos/grofer) - A system and resource monitoring tool written in Golang!
 - [gubrak](https://github.com/novalagung/gubrak) - Golang utility library with syntactic sugar. It's like lodash, but for golang.
 - [handy](https://github.com/miguelpragier/handy) - Many utilities and helpers like string handlers/formatters and validators.
+- [healthcheck](https://github.com/kazhuravlev/healthcheck) - A simple yet powerful readiness test for Kubernetes.
 - [hostctl](https://github.com/guumaster/hostctl) - A CLI tool to manage /etc/hosts with easy commands.
 - [htcat](https://github.com/htcat/htcat) - Parallel and Pipelined HTTP GET Utility.
 - [hub](https://github.com/github/hub) - wrap git commands with additional functionality to interact with github from the terminal.
@@ -2846,6 +2850,7 @@ _General utilities and tools to make your life easier._
 - [okrun](https://github.com/xta/okrun) - go run error steamroller.
 - [olaf](https://github.com/btnguyen2k/olaf) - Twitter Snowflake implemented in Go.
 - [onecache](https://github.com/adelowo/onecache) - Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).
+- [optional](https://github.com/kazhuravlev/optional) - Optional struct fields and vars.
 - [panicparse](https://github.com/maruel/panicparse) - Groups similar goroutines and colorizes stack dump.
 - [pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matching library.
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
